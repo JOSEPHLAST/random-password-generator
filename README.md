@@ -37,10 +37,10 @@ cd random-password-generator
 Simply open the index.html file in your browser to start using the app.   
 
 ## **🎮 HOW TO USE**
-1️⃣ Select the desired password length. 
-2️⃣ Choose character types (uppercase, lowercase, numbers, symbols). 
-3️⃣ Click “Generate Password” to create a secure password. 
-4️⃣ Click “Copy” to copy the password to your clipboard. 
+1️⃣ Select the desired password length.  
+2️⃣ Choose character types (uppercase, lowercase, numbers, symbols).    
+3️⃣ Click “Generate Password” to create a secure password.    
+4️⃣ Click “Copy” to copy the password to your clipboard.    
 
 ## **🛠️ TECHNOLOGIES USED**
 	•	🌐 HTML – Structure of the app. 
@@ -48,9 +48,9 @@ Simply open the index.html file in your browser to start using the app.
 	•	⚡ JavaScript – Logic for generating secure passwords. 
 
 ## **🚀 FUTURE IMPROVEMENTS**
-✨ Add a password strength meter. 
-✨ Implement a dark mode option. 
-✨ Allow users to save generated passwords. 
+✨ Add a password strength meter.    
+✨ Implement a dark mode option.    
+✨ Allow users to save generated passwords.    
 
 ## **📫 CONNECT TO ME**
 🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)   
