@@ -6,7 +6,7 @@ This is a **Random Password Generator** built using **HTML, CSS, and JavaScript*
 ---
 
 ## **📸 SCREENSHOT**  
-*[!Screenshot](random.png)*  
+*[!Screenshot](randomPassword.png)*  
 
 ---
 
